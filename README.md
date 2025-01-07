@@ -17,6 +17,7 @@ Clear, intuitive command-line interface
 Coordinate system using letters for columns and numbers for rows (e.g., A0, B1)
 
 **How to play**
+
 Start the game by specifying the grid size:
 
 bashCopypython3 game.py [2|4|6]
